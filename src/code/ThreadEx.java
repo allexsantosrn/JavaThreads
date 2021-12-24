@@ -8,7 +8,7 @@ public class ThreadEx extends Thread {
 	
 	@Override
 	public void run() {
-		System.out.println("Hi, my name is: "+this.getName());		
+		System.out.println("Hi, my name is: "+this.getName()+"-"+getId());		
 	}
 
 
