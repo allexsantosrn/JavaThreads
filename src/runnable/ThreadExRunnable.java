@@ -1,4 +1,4 @@
-package code;
+package runnable;
 
 public class ThreadExRunnable implements Runnable {
 	

@@ -1,4 +1,4 @@
-package code;
+package thread;
 
 public class ThreadEx extends Thread {
 	

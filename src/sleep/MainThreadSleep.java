@@ -1,4 +1,4 @@
-package code;
+package sleep;
 
 public class MainThreadSleep {
 

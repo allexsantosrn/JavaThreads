@@ -1,4 +1,6 @@
-package code;
+package thread;
+
+import runnable.ThreadExRunnable;
 
 public class MainThreadRunnable {
 
